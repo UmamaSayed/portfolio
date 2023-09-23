@@ -157,7 +157,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("/images/banner.jpg");
+    background: url("/images/img.jpg");
     background-size:contain ;
     height: 100vh;
     
