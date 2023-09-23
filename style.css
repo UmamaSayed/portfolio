@@ -157,7 +157,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/img.jpg");
+    background: url("/images/banner.jpg");
     background-size:contain ;
     height: 100vh;
     
@@ -248,11 +248,6 @@ section .title::after{
 .about .about-content .right a:hover{
     color: crimson;
     background: none;
-}
-/* projects section styling */
-.portfolio{
-    background: #000;
-    min-height: 500px;
 }
 
 /* skills section styling */
